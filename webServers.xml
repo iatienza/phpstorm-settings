@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6126014-6ba1-4747-b55f-db6b654156d1" name="Cocoon PRO server" url="http://ns301697.ip-94-23-53.eu">
+        <fileTransfer host="ns301697.ip-94-23-53.eu" port="22" rootFolder="/home/cocoonap/domains/cocoonapartments.com/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsM+tChDfHHE2UlgIR96yxGnBaQatrMo2ghytTSxbw3bk3T8nZjqCV6uC2Lxj/1BmBUEfg2M0btfsIF2F0EAm5ko/k35FWrdg1DCJTRVqV4SVHX4nQsOrllipsaJRhNTSQ5wXH7ECFkDGzxUn0wjsHqXtzv4HJwS+L/L8vldZQC6WbT5GhRUt1o+iKoQQIhW16Vs3Be9D3hodqXO7zc6iZW60hLuMGXMJlmcBrSKbQ1ARilf0kEZ2onc6COV2vNGJpA==</data>
+  </component>
+</application>
