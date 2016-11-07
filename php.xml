@@ -1,4 +1,14 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="$USER_HOME$/.config/composer/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="4961a744-ce01-4630-834f-722d30411169" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
