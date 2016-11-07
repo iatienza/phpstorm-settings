@@ -1,22 +1,12 @@
 <application>
   <component name="libraryTable">
     <library name="express-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="jquerymobile-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquerymobile_jquerymobile.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquerymobile_jquerymobile.d.ts" />
       </CLASSES>
