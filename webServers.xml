@@ -9,6 +9,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="561c541d-5523-47d6-9485-5c54f26f0ee8" name="DEVEL" url="http://172.16.215.213">
+        <fileTransfer host="172.16.215.213" port="22" rootFolder="/var/www/abilbao" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABEBvlJpN1ezNF01KHHiSbnEqOlgoKgCBdWPsLWMigw79m5XpKFwcge0iLdVwtcw7tBizIuE6LRSmi0KbEnNEeo3cja3SyO69Sg//OQ4Pcsl1NMIHLCbD0QMQkcmxFlHy0N+Y7BsaKqO8O7Hl72cGAYP16fdtNof+1Tl/b+2X2IbFZTofBNu+wY8czSsMu3bSAZDcDZIELSGlBu3AB1L8mpktkilquGow2pmi+NFUvLmmOqa7BwNeSkf088LCiTiTeQ91cVrcP3ZyA1+JaYbC/jCKmo/uQ6VVajtVTVAYdAB5nQeEuzNYijafTy4S8G2JviyeFSzQrGyUO9aNKfyqlv3kMnftyzJ/vc+bhvWFQSbV0ALwD2sznmOYVwiT07ZFqfg==</data>
   </component>
 </application>
