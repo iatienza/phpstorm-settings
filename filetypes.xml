@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitattributes" type="Git file" />
       <mapping ext="php_mobile_bck" type="PHP" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" type="PLAIN_TEXT" />
