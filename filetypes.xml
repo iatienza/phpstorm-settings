@@ -28,6 +28,7 @@
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="sh" type="textmate" />
       <mapping pattern="arb" type="textmate" />
+      <mapping pattern="rjs" type="textmate" />
       <mapping pattern="Dangerfile" type="textmate" />
       <mapping pattern="Brewfile" type="textmate" />
       <mapping pattern="irbrc" type="textmate" />
@@ -39,7 +40,6 @@
       <mapping pattern="rb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
-      <mapping pattern="rjs" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
