@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="13d10e93-c3f4-4c52-8378-554e0a416df2" name="BOES DEVEL" url="http://172.16.215.223">
+        <fileTransfer host="172.16.215.223" port="22" rootFolder="/var/www/ibilbao" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
