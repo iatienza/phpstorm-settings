@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.php, *js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,6 +14,7 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.php, *js</mask>
     </recentFileMasks>
   </component>
 </application>
