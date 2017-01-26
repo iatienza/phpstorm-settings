@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="652b6626-acf8-48b2-a38f-ecb08796b648" name="kubernetes abilbao" url="http://es.abilbao.privalia-test.com">
+        <fileTransfer host="sftp-kubernetes.privalia.pin" port="22" rootFolder="/abilbao" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="d6126014-6ba1-4747-b55f-db6b654156d1" name="Cocoon PRO server" url="http://ns301697.ip-94-23-53.eu">
         <fileTransfer host="ns301697.ip-94-23-53.eu" port="22" rootFolder="/home/cocoonap/domains/cocoonapartments.com/public_html" accessType="SFTP">
           <advancedOptions>
