@@ -7,5 +7,8 @@
     <pattern case-sensitive="true" pattern="\btodo\b.*" />
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
     <pattern pattern="\btodoce\b.*" />
+    <filter name="CE TEAM">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
